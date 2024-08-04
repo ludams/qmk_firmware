@@ -113,6 +113,10 @@ user_song_list.h
 !/keyboards/ergodox_ez
 !/keyboards/voyager
 /keyboards/**/keymaps/*
+
+## Custom keymaps
+!/keyboards/moonlander/keymaps/ludams
+
 # clangd
 compile_commands.json
 .clangd/
