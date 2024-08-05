@@ -8,6 +8,9 @@
     "scripts": {
       "doctor": [
         "qmk doctor"
+      ],
+      "compile": [
+        "qmk compile -kb moonlander -km ludams"
       ]
     }
   }
